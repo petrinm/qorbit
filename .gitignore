@@ -1,0 +1,7 @@
+debug
+release
+Makefile*
+*.user
+ui_qorbit.h
+object_script.*
+*.swp
